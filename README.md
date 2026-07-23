@@ -45,7 +45,7 @@ me.sayHi();
 - 📫 How to reach me **bspacheco@stefanini.com**
   
 
-- ⚡ Fun fact: I love cooking 👨‍🍳  
+- ⚡ Fun fact: I love to cook 👨‍🍳  
    
   
 
